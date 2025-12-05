@@ -113,39 +113,7 @@ ai-code-fixer/
 └── README.md            # Documentación
 
 
-👥 Equipo de Desarrollo
 
-Proyecto desarrollado por el equipo "Choclin Choclito" de la Escuela Profesional de Ingeniería de Sistemas.
-
-Integrante
-
-Rol
-
-Aporte
-
-Aguilar Jiménez, Juan Pablo
-
-Scrum Master / Dev
-
-100%
-
-Díaz Chura, Jhon Alexis
-
-AI Engineer / Dev
-
-100%
-
-Espirilla Sutta, Marcelo
-
-Backend / Dev
-
-100%
-
-Villasante García, Julio André
-
-Frontend / Dev
-
-100%
 
 <div align="center">
 
