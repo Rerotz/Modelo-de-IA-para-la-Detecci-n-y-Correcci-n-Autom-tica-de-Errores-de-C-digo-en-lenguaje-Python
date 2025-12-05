@@ -103,14 +103,6 @@ python app.py
 Acceder
 Abre tu navegador y ve a http://127.0.0.1:5000.
 
-📂 Estructura del Proyecto
-
-ai-code-fixer/
-├── static/              # Archivos estáticos (CSS, JS, Logos)
-├── templates/           # (Opcional si usas render_template)
-├── app.py               # Lógica principal del servidor Flask
-├── requirements.txt     # Dependencias del proyecto
-└── README.md            # Documentación
 
 
 
