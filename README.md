@@ -1,16 +1,9 @@
-🧠 AI Code Fixer & Refactor Assistant
+
 
 Powered by Llama 3.1 & Flask
 
-<div align="center">
 
-Una solución inteligente para la detección, corrección y refactorización automática de código, diseñada para reducir el tiempo de debugging en un 50%.
 
-Ver Demo · Reportar Bug · Solicitar Feature
-
-</div>
-
-📋 Tabla de Contenidos
 
 Sobre el Proyecto
 
